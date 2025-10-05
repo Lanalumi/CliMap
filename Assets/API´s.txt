@@ -1,0 +1,2 @@
+Link para API´s
+https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2015-09-01T00:00:00Z&endtime=2025-10-31T23:59:59Z&shape=state_dept_countries_2017/shp_32&&data=AIRGX3STMM_006_SurfAirTemp_A(units%3DC)%2CGPCPMON_3_2_satellite_precip%2CFLDAS_NOAH01_C_GL_MC_001_Rainf_f_tavg
