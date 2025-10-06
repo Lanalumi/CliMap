@@ -40,3 +40,10 @@ a {
     color-scheme: dark;
   }
 } */
+
+.map-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
