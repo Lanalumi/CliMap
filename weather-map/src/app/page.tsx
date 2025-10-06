@@ -4,9 +4,7 @@ export default function Home() {
   return (
     <div>
       <main></main>
-      <footer className={styles.footer}>
-        <h1>Banana</h1>
-      </footer>
+      <footer className={styles.footer}></footer>
     </div>
   );
 }
